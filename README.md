@@ -43,7 +43,9 @@
 
 ---
 
-### 🐍 Contribution Snake (Optional)
+### 🐍 Contribution Snake
 
-```diff
-! ⚠️ Make sure you set up the GitHub Actions for this to work!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venomblaze/venomblaze/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
