@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Venom Blaze's Lair 👑</h1>
+<h1 align="center">🐍 Welcome to Venom Blaze's Lair 👑</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Unleashing+Code.+Dominating+Bugs.;Venom+Blaze+Has+Entered+the+Arena" alt="Typing animation">
 </p>
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧪 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=venomblaze-alpha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -49,3 +49,6 @@
   <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
+
+> 🕷️ *"Your code is your venom. Inject wisely."* — **Venom Blaze**
