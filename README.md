@@ -51,4 +51,4 @@
 
 ---
 
-> 🕷️ *"Your code is your venom. Inject wisely."* — **Venom Blaze**
+*Your code is your venom. Inject wisely.* — **Venom Blaze**
