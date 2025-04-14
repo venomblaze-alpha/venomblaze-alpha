@@ -7,12 +7,24 @@
 
 ---
 
-## 🚀 Real-Time GitHub Metrics
+## 🌓 Theme Toggle
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Theme-Light-F5F5F5?style=for-the-badge&logo=github" />
+  </picture>
+</p>
+
+---
+
+## 🚀 GitHub Metrics
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/venomblaze-alpha?style=for-the-badge&color=yellow&label=Stars" />
   <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/commit-badge.svg" />
   <img src="https://img.shields.io/github/followers/venomblaze-alpha?style=for-the-badge&color=blueviolet&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=venomblaze-alpha&style=for-the-badge&color=red" />
 </p>
 
 ---
@@ -20,7 +32,7 @@
 ## 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,php,mongodb,mysql,postgres,firebase,git,github,docker,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,python,php,java,cs,cpp,go,ruby,swift,mongodb,mysql,postgres,firebase,graphql,redis,tailwind,bootstrap,sass,webpack,babel,git,github,docker,kubernetes,nginx,linux,vscode,figma,cloudflare,aws,gcp" />
 </p>
 
 ---
@@ -49,15 +61,34 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venomblaze-alpha&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+---
+
+## ⌨️ Wakatime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=venomblaze-alpha&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🧙‍♂️ About Me
 
 ```ts
 const venomBlaze = {
   alias: "Code Sorcerer",
-  languages: ["TypeScript", "JavaScript", "Python", "PHP"],
-  backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Firebase"],
-  frontend: ["React", "Next.js", "HTML5", "CSS3"],
-  tools: ["Git", "Docker", "VS Code", "Linux", "CI/CD"],
+  languages: ["TypeScript", "JavaScript", "Python", "Go", "PHP", "C++", "Swift"],
+  backend: ["Node.js", "Express", "NestJS", "Firebase", "PostgreSQL", "Redis"],
+  frontend: ["React", "Next.js", "Tailwind", "Bootstrap"],
+  devops: ["Docker", "Kubernetes", "Nginx", "GitHub Actions", "Cloudflare"],
+  cloud: ["AWS", "GCP"],
+  uiux: ["Figma", "Framer Motion"],
+  tools: ["Git", "GitHub", "VS Code", "Linux", "Zsh"],
   motto: "Craft. Refactor. Scale.",
   funFact: "I don’t just write code. I conjure it."
 }
