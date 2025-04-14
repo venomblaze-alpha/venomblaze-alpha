@@ -49,14 +49,6 @@
 
 ---
 
-## Contribution Time Breakdown
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venomblaze-alpha&theme=tokyonight&utcOffset=8" />
-</p>
-
----
-
 ## Weekly GitHub Activity
 
 <p align="center">
