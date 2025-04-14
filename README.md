@@ -47,41 +47,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomblaze-alpha&theme=tokyonight" />
 </p>
 
----
-
-## Weekly GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venomblaze-alpha&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## Language Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomblaze-alpha&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomblaze-alpha&theme=tokyonight" />
-</p>
-
----
-
-## Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/venomblaze-alpha/venom-anime-vault">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=venomblaze-alpha&repo=venom-anime-vault&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/venomblaze-alpha/code-converter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=venomblaze-alpha&repo=code-converter&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
