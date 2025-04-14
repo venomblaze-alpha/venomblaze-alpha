@@ -1,23 +1,8 @@
-
----
-
-# 🛠️ STEP 2: GitHub Action – Dynamic Commit Count Badge
-
-This action will:
-1. Fetch your total commits in the current year
-2. Render a `.svg` badge
-3. Auto-update it daily
-
----
-
-### 📁 File: `.github/workflows/commit-badge.yml`
-
-```yaml
-name: 🧮 Update Commit Count Badge
+name: 🔁 Update Commit Count Badge
 
 on:
   schedule:
-    - cron: "0 */1 * * *"  # Every 6 hours
+    - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:
 
 jobs:
