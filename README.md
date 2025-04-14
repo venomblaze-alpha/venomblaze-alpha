@@ -7,7 +7,7 @@
 
 ---
 
-## 🔄 Real-Time GitHub Metrics
+## Real-Time GitHub Metrics
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/venomblaze-alpha?style=flat-square&color=yellow&label=GitHub%20Stars" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,php,mongodb,mysql,postgres,firebase,git,github,docker,linux,vscode" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=venomblaze-alpha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -41,15 +41,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venomblaze-alpha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
-
-## 🔥 Contribution Summary
+## Contribution Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomblaze-alpha&theme=tokyonight" />
@@ -57,7 +49,7 @@
 
 ---
 
-## 📊 Contribution Time Breakdown
+## Contribution Time Breakdown
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venomblaze-alpha&theme=tokyonight&utcOffset=8" />
@@ -65,7 +57,7 @@
 
 ---
 
-## 📈 Weekly GitHub Activity
+## Weekly GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venomblaze-alpha&theme=tokyo-night&hide_border=true" />
@@ -73,7 +65,7 @@
 
 ---
 
-## 🧪 Language Insights
+## Language Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomblaze-alpha&theme=tokyonight" />
@@ -82,7 +74,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
@@ -101,11 +93,4 @@
 
 ---
 
-## 🧰 Toolbox
 
-```bash
-Languages:      JavaScript, TypeScript, Python, PHP, SQL
-Frameworks:     React, Next.js, Node.js, Express
-Databases:      MongoDB, PostgreSQL, MySQL, Firebase
-DevOps Tools:   Docker, GitHub Actions, Nginx, Linux
-Design & UI:    TailwindCSS, SASS, Figma
