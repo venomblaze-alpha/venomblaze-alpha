@@ -1,11 +1,11 @@
-<!-- Banner -->
+<!-- Branding Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/assets/banner.png" alt="Venom Blaze Banner" width="100%" />
 </p>
 
-<h1 align="center">Welcome to Venom Blaze's Lair</h1>
+<h1 align="center">Welcome to Venom Blaze</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;Turning+Ideas+Into+Code;Always+Building.+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9F79FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;TypeScript+Wizard;Cyberpunk+Code+Crafter;Clean+Code+or+No+Code" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,15 +35,15 @@
 
 ---
 
-### 🔲 3D GitHub Contribution Chart
+### 3D GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/venomblaze-alpha/venomblaze-alpha/blob/main/assets/3d-graph.gif?raw=true" alt="3D Graph" width="90%" />
+  <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/assets/3d-graph.gif" alt="3D GitHub Graph" width="90%" />
 </p>
 
 ---
 
-### 🔌 Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -59,13 +59,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 
-  <!-- Tools & DevOps -->
+  <!-- DevOps / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
@@ -75,7 +78,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/venomblaze-alpha/venom-anime-vault">
@@ -88,7 +91,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/output/github-contribution-grid-snake.svg" />
@@ -96,7 +99,7 @@
 
 ---
 
-### 💬 Final Words
+### Final Words
 
 <p align="center">
   <strong><i>"Precision. Power. Persistence. That's how legends are built."</i></strong>
