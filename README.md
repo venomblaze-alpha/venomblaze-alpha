@@ -1,4 +1,5 @@
-<h1 align="center">Venom Blaze</h1>
+<h1 align="center">Venom Blaze</h1><img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/commit-badge.svg" />
+
 <h3 align="center">Full-Stack Developer | Front to Back Excellence</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=76FF03&center=true&width=500&lines=Clean+Code+is+My+Standard.;Architecture+Driven+Development.;I+Build+Systems+that+Scale." alt="Typing SVG" />
