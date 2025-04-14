@@ -11,3 +11,8 @@ Role:       Full-Stack Developer
 Specialty:  TypeScript • APIs • Automation
 Location:   Remote | Global
 GitHub:     github.com/venomblaze-alpha
+Languages:  JavaScript, TypeScript, Python, PHP, SQL
+Frontend:   React, Next.js, TailwindCSS
+Backend:    Node.js, Express, REST, GraphQL
+Databases:  MongoDB, MySQL, PostgreSQL, Firebase
+DevOps:     Docker, Linux, GitHub Actions, Nginx
