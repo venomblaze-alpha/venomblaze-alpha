@@ -1,31 +1,31 @@
-<h1 align="center">Venom Blaze</h1>
-<h3 align="center">TypeScript Architect • API Engineer • Full-Stack Wizard</h3>
+<h1 align="center">🔥 Venom Blaze 🔥</h1>
+<h3 align="center">TypeScript Architect • API Engineer • Full-Stack Wizard 🧙‍♂️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&width=500&lines=Build+Fast.;Build+Clean.;Think+Beyond+the+Syntax." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Build+Fast.;Build+Clean.;Think+Beyond+the+Syntax.;Automate+Everything.;Code+Like+a+Sorcerer." />
 </p>
 
 ---
 
-## Real-Time GitHub Metrics
+## 🚀 Real-Time GitHub Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/venomblaze-alpha?style=flat-square&color=yellow&label=GitHub%20Stars" />
+  <img src="https://img.shields.io/github/stars/venomblaze-alpha?style=for-the-badge&color=yellow&label=Stars" />
   <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/commit-badge.svg" />
-  <img src="https://img.shields.io/github/followers/venomblaze-alpha?style=flat-square&color=blueviolet&label=Followers" />
+  <img src="https://img.shields.io/github/followers/venomblaze-alpha?style=for-the-badge&color=blueviolet&label=Followers" />
 </p>
 
 ---
 
-## Tech Stack
+## 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,php,mongodb,mysql,postgres,firebase,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,php,mongodb,mysql,postgres,firebase,git,github,docker,linux,vscode&theme=dark" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=venomblaze-alpha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -41,13 +41,23 @@
 
 ---
 
-## Contribution Summary
+## 🧾 Contribution Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomblaze-alpha&theme=tokyonight" />
 </p>
 
-
 ---
 
+## 🧙‍♂️ About Me
 
+```ts
+const venomBlaze = {
+  alias: "Code Sorcerer",
+  languages: ["TypeScript", "JavaScript", "Python", "PHP"],
+  backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "Firebase"],
+  frontend: ["React", "Next.js", "HTML5", "CSS3"],
+  tools: ["Git", "Docker", "VS Code", "Linux", "CI/CD"],
+  motto: "Craft. Refactor. Scale.",
+  funFact: "I don’t just write code. I conjure it."
+}
