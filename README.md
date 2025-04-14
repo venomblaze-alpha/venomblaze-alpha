@@ -7,12 +7,13 @@
 
 ---
 
-## 🌓 Theme Toggle
+## 🌓 Theme Mode
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/Theme-Light-F5F5F5?style=for-the-badge&logo=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Theme-Light-ffffff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Theme-Auto-grey?style=for-the-badge&logo=github" />
   </picture>
 </p>
 
@@ -40,15 +41,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venomblaze-alpha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=venomblaze-alpha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=venomblaze-alpha&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=venomblaze-alpha&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=venomblaze-alpha&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=venomblaze-alpha&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomblaze-alpha&layout=compact&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=venomblaze-alpha&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomblaze-alpha&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 ---
@@ -69,26 +79,11 @@
 
 ---
 
-## ⌨️ Wakatime Stats
+## 📈 Wakatime Stats *(Optional)*
 
+> ❗ Make sure your [WakaTime](https://wakatime.com) profile is public and replace `your-username` below
+
+```md
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=venomblaze-alpha&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-username&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🧙‍♂️ About Me
-
-```ts
-const venomBlaze = {
-  alias: "Code Sorcerer",
-  languages: ["TypeScript", "JavaScript", "Python", "Go", "PHP", "C++", "Swift"],
-  backend: ["Node.js", "Express", "NestJS", "Firebase", "PostgreSQL", "Redis"],
-  frontend: ["React", "Next.js", "Tailwind", "Bootstrap"],
-  devops: ["Docker", "Kubernetes", "Nginx", "GitHub Actions", "Cloudflare"],
-  cloud: ["AWS", "GCP"],
-  uiux: ["Figma", "Framer Motion"],
-  tools: ["Git", "GitHub", "VS Code", "Linux", "Zsh"],
-  motto: "Craft. Refactor. Scale.",
-  funFact: "I don’t just write code. I conjure it."
-}
