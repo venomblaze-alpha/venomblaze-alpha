@@ -1,4 +1,4 @@
-<h1 align="center">Venom Blaze</h1><img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/commit-badge.svg" />
+<h1 align="center">Venom Blaze</h1>
 
 <h3 align="center">Full-Stack Developer | Front to Back Excellence</h3>
 <p align="center">
