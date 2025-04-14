@@ -1,0 +1,60 @@
+name: 📊 Profile Metrics Badges
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  generate-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch GitHub metrics
+        id: metrics
+        run: |
+          USER="venomblaze-alpha"
+
+          STARS=$(curl -s https://api.github.com/users/$USER | jq '.public_repos' | xargs -I {} curl -s "https://api.github.com/users/$USER/repos?per_page=100" | jq '[.[].stargazers_count] | add')
+          REPOS=$(curl -s https://api.github.com/users/$USER | jq '.public_repos')
+          ISSUES=$(curl -s "https://api.github.com/search/issues?q=author:$USER+type:issue" | jq '.total_count')
+          LOC=$(( $(curl -s "https://api.github.com/search/commits?q=author:$USER" -H "Accept: application/vnd.github.cloak-preview" | jq '.total_count') * 30 ))  # Estimate 30 LOC/commit
+
+          echo "stars=$STARS" >> $GITHUB_OUTPUT
+          echo "repos=$REPOS" >> $GITHUB_OUTPUT
+          echo "issues=$ISSUES" >> $GITHUB_OUTPUT
+          echo "loc=$LOC" >> $GITHUB_OUTPUT
+
+      - name: Create badge SVGs
+        run: |
+          mkdir -p .github/badges
+
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='180' height='20'>
+            <rect width='180' height='20' fill='#222'/>
+            <text x='10' y='15' fill='#FFD700' font-size='12'>Stars: ${{ steps.metrics.outputs.stars }}</text>
+          </svg>" > .github/badges/stars.svg
+
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='180' height='20'>
+            <rect width='180' height='20' fill='#222'/>
+            <text x='10' y='15' fill='#00bfff' font-size='12'>Repos: ${{ steps.metrics.outputs.repos }}</text>
+          </svg>" > .github/badges/repos.svg
+
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='180' height='20'>
+            <rect width='180' height='20' fill='#222'/>
+            <text x='10' y='15' fill='#ff6347' font-size='12'>Issues: ${{ steps.metrics.outputs.issues }}</text>
+          </svg>" > .github/badges/issues.svg
+
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='20'>
+            <rect width='220' height='20' fill='#222'/>
+            <text x='10' y='15' fill='#90ee90' font-size='12'>Estimated LOC: ${{ steps.metrics.outputs.loc }}</text>
+          </svg>" > .github/badges/loc.svg
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "venomblaze-bot"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/badges/*.svg
+          git commit -m "📊 Auto-update profile metric badges" || echo "No changes"
+          git push
