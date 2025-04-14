@@ -1,88 +1,56 @@
 <h1 align="center">Venom Blaze</h1>
-<h3 align="center">TypeScript Architect • API Engineer • Full-Stack Wizard</h3>
+<h3 align="center">Terminal-Driven | Full-Stack Developer | API Specialist</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&width=500&lines=Build+Fast.;Build+Clean.;Think+Beyond+the+Syntax." />
-</p>
+<pre>
 
----
+> whoami
+👤 Venom Blaze
 
-## 🔄 Real-Time GitHub Metrics
+> skills --fullstack
+🧠 JavaScript, TypeScript, Python, PHP, HTML, CSS  
+🧠 React, Next.js, Node.js, Express, REST, SQL  
+🧠 MongoDB, PostgreSQL, MySQL, Firebase
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/venomblaze-alpha?style=flat-square&color=yellow&label=GitHub%20Stars" />
-  <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/commit-badge.svg" />
-  <img src="https://img.shields.io/github/followers/venomblaze-alpha?style=flat-square&color=blueviolet&label=Followers" />
-</p>
+> tools --cli
+🧰 Docker, GitHub Actions, Linux, VS Code, Nginx, TailwindCSS
 
----
+> uptime
+⏳ Active since: Mar 2024  
+📍 GitHub: venomblaze-alpha
 
-## 🧠 Tech Stack
+> git status
+✔️ Public Repos: 3  
+✔️ Stars:   <img src="https://img.shields.io/github/stars/venomblaze-alpha?style=flat-square&color=yellow&label=Stars" />  
+✔️ Followers: <img src="https://img.shields.io/github/followers/venomblaze-alpha?style=flat-square&color=blueviolet&label=Followers" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,php,mongodb,mysql,postgres,firebase,git,github,docker,linux,vscode" />
-</p>
+> stats --year=2025
+📦 Total Contributions: 54  
+🚀 Current Streak: 5 days  
+📊 Language Use: See progress below
 
----
+> progress --lang
+TypeScript     ████████████████████████░░  95%  
+CSS            ███░░░░░░░░░░░░░░░░░░░░░░  3%  
+JavaScript     ██░░░░░░░░░░░░░░░░░░░░░░░  1%  
+HTML           ░░░░░░░░░░░░░░░░░░░░░░░░░  1%
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
+> ./github-metrics.sh
+📈 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api?username=venomblaze-alpha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <br />
+
+🔥 GitHub Streak:
   <img src="https://streak-stats.demolab.com?user=venomblaze-alpha&theme=tokyonight&hide_border=true" />
-  <br />
+
+📚 Languages:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venomblaze-alpha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
+> ./metrics.sh
+⭐ Stars:       <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/stars.svg" />
+📦 Repos:       <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/repos.svg" />
+🐞 Issues:      <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/issues.svg" />
+📊 LOC (est.):  <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/.github/badges/loc.svg" />
 
-## 🏆 GitHub Trophies
+> last-updated
+🕓 Last refresh: <!--LAST_UPDATED-->2025-04-14 06:00 UTC
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venomblaze-alpha&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venomblaze-alpha&theme=tokyo-night&hide_border=true" />
-</p>
-
-
----
-
-## 💻 CLI Tools (Auto Output)
-
----
-
-## 🚀 Projects
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/venomblaze-alpha/venom-anime-vault">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=venomblaze-alpha&repo=venom-anime-vault&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/venomblaze-alpha/code-converter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=venomblaze-alpha&repo=code-converter&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠 Tools I Use
-
-```bash
-Languages:    JavaScript, TypeScript, Python, PHP, SQL
-Frameworks:   React, Next.js, Node.js, Express
-Databases:    MongoDB, PostgreSQL, MySQL, Firebase
-DevOps:       Docker, GitHub Actions, Nginx, Linux
-Design:       TailwindCSS, SASS, Figma
-
+</pre>
