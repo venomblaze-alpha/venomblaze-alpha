@@ -51,15 +51,38 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venomblaze-alpha&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 📖 Latest Blog Posts (Auto-updating)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Blog posts will be automatically inserted here -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 💻 CLI Tools (Auto Output)
+
+---
+
+## 🚀 Projects
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/venomblaze-alpha/venom-anime-vault">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=venomblaze-alpha&repo=venom-anime-vault&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/venomblaze-alpha/code-converter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=venomblaze-alpha&repo=code-converter&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tools I Use
+
+```bash
+Languages:    JavaScript, TypeScript, Python, PHP, SQL
+Frameworks:   React, Next.js, Node.js, Express
+Databases:    MongoDB, PostgreSQL, MySQL, Firebase
+DevOps:       Docker, GitHub Actions, Nginx, Linux
+Design:       TailwindCSS, SASS, Figma
 
