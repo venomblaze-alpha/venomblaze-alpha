@@ -1,5 +1,10 @@
 <!-- README FUSION OF CODE × FOOD × VIBES -->
 
+<!-- Banner with Imgix -->
+<p align="center">
+  <img src="https://your-imgix-url.com/your-banner.jpg?auto=format&fit=crop&w=1000&h=300&blend=000000&blend-mode=darken&mark-align=center,middle&mark=https%3A%2F%2Fimg.icons8.com%2Fios-filled%2F500%2Fffffff%2Fcode.png&mark-scale=50" alt="VenomBlaze Banner" />
+</p>
+
 <h1 align="center">Hey, I'm VenomBlaze 👋</h1>
 <p align="center">
   🧑‍💻 Full-stack dev by day, code chef by night 🍱 <br/>
@@ -27,33 +32,33 @@
 <!-- Keepin’ it crispy with those badges -->
 <p align="left">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next-black?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sass-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mui-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/framer-black?&style=for-the-badge&logo=framer&logoColor=blue"/>
+  <img src="https://imgix.com/your-badge-url/html5.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="HTML5"/>
+  <img src="https://imgix.com/your-badge-url/css3.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="CSS3"/>
+  <img src="https://imgix.com/your-badge-url/javascript.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="JavaScript"/>
+  <img src="https://imgix.com/your-badge-url/typescript.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="TypeScript"/>
+  <img src="https://imgix.com/your-badge-url/react.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="React"/>
+  <img src="https://imgix.com/your-badge-url/nextjs.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Next.js"/>
+  <img src="https://imgix.com/your-badge-url/tailwindcss.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Tailwind CSS"/>
+  <img src="https://imgix.com/your-badge-url/sass.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="SASS"/>
+  <img src="https://imgix.com/your-badge-url/mui.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="MUI"/>
+  <img src="https://imgix.com/your-badge-url/angular.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Angular"/>
+  <img src="https://imgix.com/your-badge-url/vue.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Vue"/>
+  <img src="https://imgix.com/your-badge-url/framer.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Framer"/>
+  
   <!-- Backend / DevOps / Misc -->
   <br/>
-  <!-- Keep rest as is -->
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  <img src="https://imgix.com/your-badge-url/nodejs.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Node.js"/>
+  <img src="https://imgix.com/your-badge-url/nestjs.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="NestJS"/>
+  <img src="https://imgix.com/your-badge-url/django.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Django"/>
+  <img src="https://imgix.com/your-badge-url/rust.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Rust"/>
+  <img src="https://imgix.com/your-badge-url/php.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="PHP"/>
+  <img src="https://imgix.com/your-badge-url/aws.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="AWS"/>
+  <img src="https://imgix.com/your-badge-url/azure.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Azure"/>
+  <img src="https://imgix.com/your-badge-url/firebase.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Firebase"/>
+  <img src="https://imgix.com/your-badge-url/socketio.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Socket.io"/>
+  <img src="https://imgix.com/your-badge-url/mysql.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="MySQL"/>
+  <img src="https://imgix.com/your-badge-url/mongodb.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="MongoDB"/>
+  <img src="https://imgix.com/your-badge-url/prisma.svg?auto=format&fit=crop&w=40&h=40&bg=transparent" alt="Prisma"/>
 </p>
 
 ---
