@@ -11,19 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=435&center=true&lines=React+Wizard+🌀;Tailwind+Stylist+🎨;TypeScript+Sorcerer+🧙‍♂️;Rust+Padawan+🦀;DevOps+on+the+Grill+🔥;Clean+Code+Only+🍽️" alt="Typing SVG" />
 </p>
 
----
 
-## 💫 About Me:
-🍜 **Currently cooking at**: [false.bio](https://false.bio)  
-🤝 **Looking to collab on**: Anything with chill vibes & clean code  
-📦 **Need help with**: Leveling up my backend & DevOps mastery  
-📚 **Now learning**: AWS | Rust | Advanced TypeScript  
-💬 **Ask me about**: React • TS • Tailwind • Django • Memes  
-⚡ **Fun fact**: I commit **after** I finish the whole thing. Like a dev-ninja. 🥷😂
 
----
-
-## 🌐 Find Me Here:
+## 🌐 Contact Me Here:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venomblaze.alpha@gmail.com)  
 
 ---
