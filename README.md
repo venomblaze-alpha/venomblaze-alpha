@@ -2,7 +2,6 @@
 <h1 align="center">Hey, I'm VenomBlaze 👋</h1>
 <p align="center">
   🧑‍💻 Full-stack dev by day, code chef by night 🍱 <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=435&center=true&lines=React+Wizard+🌀;Tailwind+Stylist+🎨;TypeScript+Sorcerer+🧙‍♂️;Rust+Padawan+🦀;DevOps+on+the+Grill+🔥;Clean+Code+Only+🍽️" alt="Typing SVG" />
 </p>
 
 
@@ -34,6 +33,6 @@
 ---
 
 <p align="center">
-  🍥 Thanks for stopping by — now go build something awesome.  
-  <br/>May your code be bug-free and your coffee always strong ☕💻
+   Thanks for stopping by — now go build something awesome.  
+  <br/>May your code be bug-free and your coffee always strong 
 </p>
