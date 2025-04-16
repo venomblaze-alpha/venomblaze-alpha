@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=venomblaze-alpha&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/venomblaze-alpha/venomblaze-alpha/main/assets/streak-stats.svg" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
